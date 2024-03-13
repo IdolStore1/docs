@@ -17,5 +17,5 @@
 
 
 ## 系统架构图 
-![image]([https://github.com/IdolStore1/docs/tree/master](https://github.com/IdolStore1/docs/blob/master/idolstore.jpg)https://github.com/IdolStore1/docs/blob/master/idolstore.jpg)
+![image](https://github.com/IdolStore1/docs/blob/cd50fa054a3eac4a250016913e48a737181e)
 
